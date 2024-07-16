@@ -36,4 +36,6 @@ Du siehst, wie viele Leute dir folgen. Da viele User diese Information interessa
 
 ## Was ist ein "Insider" bei den Memes?
 
+Das bedeutet, dass man dieses Meme nur verstehen bzw. lustig finden kann, wenn man diese Seite regelmäßig besucht. Insider veralbern z.B. vorangegangene Chats, Pannen auf dieser Seite oder die Dynamik zwischen einzelnen Mitgliedern.
+
 ## Warum fangen Leute in den Chats plötzlich an, Zahlen zu schreiben?
