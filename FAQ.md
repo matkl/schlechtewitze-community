@@ -16,6 +16,10 @@ Schlechte Witze finanziert sich durch Werbeanzeigen. Wenn du dir ein Konto anleg
 
 ## Darf ich mehr als einen Account haben?
 
+## Brauche ich für jedes meiner Geräte (Handy, Laptop...) einen eigenen Account?
+
+Nein, du kannst mit einem Account auf mehreren Geräten gleichzeitig angemeldet sein.
+
 ## Wie oft kann ich meinen Namen ändern?
 
 Du kannst deinen Namen alle 24 Stunden ändern. Es ist aber sinnvoll, den Namen länger zu behalten, damit du beim Chatten sowie bei den Memes und Witzen leichter wiedererkannt wirst.
