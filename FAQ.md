@@ -24,6 +24,8 @@ Du kannst deinen Namen alle 24 Stunden ändern. Es ist aber sinnvoll, den Namen 
 
 ## Was bringt mir eine Followerzahl?
 
+Du siehst, wie viele Leute dir folgen. Da viele User diese Information interessant finden, wird sie öffentlich angezeigt. Ansonsten hast du jedoch keinen Nutzen davon. Du kannst nicht einsehen, wer dir folgt. Du bekommst auch keine besonderen Rechte oder wirst zum Mod ernannt, sobald du eine bestimmte Zahl erreicht hast. Das sind Gerüchte, die sich hartnäckig halten, jedoch nicht wahr sind.
+
 ## Was ist ein Mod und was tut er?
 
 ## Kann jeder Mod werden?
