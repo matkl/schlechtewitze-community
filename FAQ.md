@@ -10,6 +10,8 @@
 
 ## Ist Schlechte Witze kostenlos?
 
+Schlechte Witze finanziert sich durch Werbeanzeigen. Wenn du dir ein Konto anlegst, musst du daher weder dafür bezahlen, noch deine E-Mail-Adresse angeben.
+
 ## Was muss ich beachten, wenn ich in der Community chatte?
 
 ## Darf ich mehr als einen Account haben?
