@@ -16,7 +16,7 @@
 
 ## Wie oft kann ich meinen Namen ändern?
 
-Du kannst deinen Namen alle 24 Stunden ändern. Es ist aber sinnvoll, den Namen länger zu behalten, damit du beim Chatten sowie bei den Memes und Witzen leichter wiedererkennt wirst.
+Du kannst deinen Namen alle 24 Stunden ändern. Es ist aber sinnvoll, den Namen länger zu behalten, damit du beim Chatten sowie bei den Memes und Witzen leichter wiedererkannt wirst.
 
 ## Was passiert, wenn ich jemandem folge?
 
