@@ -1,1 +1,3 @@
-# schlechtewitze-community
+# Schlechte Witze Community
+
+[FAQ](FAQ.md)
