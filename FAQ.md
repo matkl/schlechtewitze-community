@@ -1,4 +1,4 @@
-# FAQ
+# Häufig gestellte Fragen
 
 ## Was kann ich auf Schlechte Witze machen?
 
@@ -10,7 +10,7 @@ Schau bitte vor dem Veröffentlichen, ob es diesen Witz schon gibt. Das geht am 
 
 Du solltest außerdem folgende Dinge vermeiden: Beleidigungen, Spam, unüberlegten Quatsch, sowie „hingeschmierte“ Witze (unbedingt nochmal Korrektur lesen! Fehlende Satzzeichen, ein veränderter Sinn durch die Autokorrektur usw. machen sogar den besten Joke zunichte!).
 
-Übrigens, zu viele Witze auf einmal wirken eher nervig als lustig. Faustregel ist daher: Jeder darf bis zu drei Witzen pro Tag veröffentlichen. Das gilt auch jeweils für Memes und Chatbeiträge.
+Übrigens, zu viele Witze auf einmal wirken eher nervig als lustig. Faustregel ist daher: Jeder darf bis zu drei Witze pro Tag veröffentlichen. Das gilt auch jeweils für Memes und Chatbeiträge.
 
 ## Warum wurde mein Witz oder Kommentar gelöscht?
 
@@ -56,7 +56,7 @@ Ansonsten hast du jedoch keinen Nutzen davon. Du kannst nicht einsehen, wer dir 
 
 ## Wie kann ich jemandem eine private Nachricht schreiben?
 
-Gar nicht. Alle Chats hier sind öffentlich. Das ist so gewollt, damit z.B. nicht hinter dem Rücken einer anderen Person gelästert wird.
+Gar nicht. Alle Chats hier sind öffentlich. Das ist so gewollt, damit z.B. nicht hinter dem Rücken einer anderen Person über diese gelästert wird.
 
 ## Was ist Schlechte Witze Premium und wie bekomme ich das?
 
